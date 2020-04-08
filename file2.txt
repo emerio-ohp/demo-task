@@ -1,3 +1,4 @@
 <?php
 // PHP code goes here file2
+<?php echo "The Best PHP Examples"; ?>
 ?>
